@@ -22,3 +22,7 @@ Try to:
 
 - Save your state to localstorage so you can leave the page and come back later
 - Make it look like a real Tamagotchi!
+
+### Setup
+Checkout our guide to setting up a react project with Parcel:
+### :sparkles: [CLICK ME](./parcel-setup.md) :sparkles:
