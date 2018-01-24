@@ -26,3 +26,6 @@ Try to:
 ### Setup
 Checkout our guide to setting up a react project with Parcel:
 ### :sparkles: [CLICK ME](./parcel-setup.md) :sparkles:
+
+### Assets
+If you want you can use [our sprite sheet](./tamagotchi.png). There's instructions on [how to use it here](https://gamedevelopment.tutsplus.com/tutorials/an-introduction-to-spritesheet-animation--gamedev-13099).
